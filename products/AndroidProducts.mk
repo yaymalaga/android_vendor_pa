@@ -34,3 +34,7 @@
     $(LOCAL_DIR)/ls990/pa_ls990.mk \
     $(LOCAL_DIR)/vs985/pa_vs985.mk
 
+# Nexus
+    PRODUCT_MAKEFILES += \
+    $(LOCAL_DIR)/mako/pa_mako.mk
+

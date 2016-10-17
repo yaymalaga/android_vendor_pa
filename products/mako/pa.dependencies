@@ -1,0 +1,57 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "aosp-msm8960/android_device_lge_mako",
+        "target_path":  "device/lge/mako",
+        "revision":     "nougat-release"
+    },
+
+    {
+        "remote":       "github",
+        "repository":   "aosp-msm8960/android_kernel_google_msm",
+        "target_path":  "kernel/lge/mako",
+        "revision":     "mako-nougat"
+    },
+
+    {
+        "remote":       "github",
+        "repository":   "aosp-msm8960/android_vendor",
+        "target_path":  "vendor",
+        "revision":     "master"
+    },
+
+    {
+        "remote":       "github",
+        "repository":   "aosp-msm8960/android_hardware_qcom_media",
+        "target_path":  "hardware/qcom/media",
+        "revision":     "nougat-release"
+    },
+
+    {
+        "remote":       "github",
+        "repository":   "aosp-msm8960/android_hardware_qcom_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "nougat-release"
+    },
+
+    {
+        "remote":       "github",
+        "repository":   "aosp-msm8960/android_hardware_qcom_gps",
+        "target_path":  "hardware/qcom/gps",
+        "revision":     "nougat-release"
+    },
+
+    {
+        "remote":       "github",
+        "repository":   "aosp-msm8960/android_hardware_qcom_audio",
+        "target_path":  "hardware/qcom/audio",
+        "revision":     "nougat-release"
+    },
+
+    {
+        "remote":       "aosp",
+        "repository":   "platform/hardware/qcom/msm8960",
+        "target_path":  "hardware/qcom/msm8960",
+        "revision":     "refs/tags/android-7.0.0_r14"
+    }
+]
